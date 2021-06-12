@@ -5,7 +5,7 @@
 # Concatenating two strings
 # c = greeting + name
 # print(c)
-name = "Umesh"
+name = "Umesh0"
 # print(name[4])
 # name[3] = "d" --> Does not work
 
@@ -15,7 +15,7 @@ name = "Umesh"
 # c = name[-4:-1] # is same is name[1:4]
 # print(c)
 
-name = "UmeshIsGood"
+name = "Umesh0IsGood"
 # d = name[0::3]
 d = name[:0:-1]
 print(d)
