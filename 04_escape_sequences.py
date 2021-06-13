@@ -1,2 +1,2 @@
-story = "Harry is good.\nHe\tis ve\\ry good"
+story = "Suraj is good.\nHe\tis ve\\ry good"
 print(story)
